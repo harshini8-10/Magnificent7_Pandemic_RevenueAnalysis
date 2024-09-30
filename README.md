@@ -95,7 +95,7 @@ install.packages("zoo")
 
 •	Clone the Repository: Clone this GitHub repository to your local machine.
 
-git clone https://github.com/harshini8-10/AlaskaAirlinesRevenueForecast.git
+git clone https://github.com/harshini8-10/Magnificent7_Pandemic_RevenueAnalysis.git
 
 •	Run the Analysis Script : Navigate to the project directory and run the R scripts.
 
