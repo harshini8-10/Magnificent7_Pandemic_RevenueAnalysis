@@ -36,8 +36,11 @@ This project explores the effects of the COVID pandemic on the revenue trends of
 
 # 2.	Project Objectives
 •	Identify the best time series forecasting models using historical data (2010-2019 for most companies) and develop ensemble of those models.
+
 •	Forecast quarterly revenues for 2020-2023 and compare actual revenue trends against forecasts.
+
 •	Apply counterfactual analysis to assess the impact of COVID-19 on the revenue trends of M7 companies.
+
 
 # 3.	Project Scope
 •	Time Period: Quarterly revenue data from Q1 2010 to Q4 2023,  (Q1 2014 to Q4 2023 for Tesla)
