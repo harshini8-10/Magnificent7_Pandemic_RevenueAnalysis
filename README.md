@@ -1,4 +1,4 @@
-# Title of the Project : Analysis of  Revenue Trends of Magnificent Seven Companies During the COVID Pandemic
+# Title of the Project : Time Series Forecasting - Analysis of  Revenue Trends of the Magnificent Seven Companies During and Post-COVID-19 Pandemic
 
 # Description : 
 This project estimates the impact of the COVID-19 pandemic on the revenues of the Magnificent Seven (M7) companies, using quarterly revenue data from 2010 to 2023. Specific time series ensemble models were developed to forecast quarterly revenues during the pandemic period, and these models were applied in counterfactual analysis to evaluate revenue trends, including revenue losses, gains, or stability during the COVID pandemic.
