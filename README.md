@@ -2,7 +2,7 @@
 
 # Watch the Video
 
-[![Watch the Video](https://img.youtube.com/vi/QFhYwAtGUMQ/0.jpg)](https://youtu.be/QFhYwAtGUMQ?si=2vSNrMiRcu--jRH
+[![Watch the Video]      (https://img.youtube.com/vi/QFhYwAtGUMQ/0.jpg)](https://youtu.be/QFhYwAtGUMQ?si=2vSNrMiRcu--jRH
 
 # Description : 
 This project estimates the impact of the COVID-19 pandemic on the revenues of the Magnificent Seven (M7) companies, using quarterly revenue data from 2010 to 2023. Specific time series ensemble models were developed to forecast quarterly revenues during the pandemic period, and these models were applied in counterfactual analysis to evaluate revenue trends, including revenue losses, gains, or stability during the COVID pandemic.
